@@ -1,4 +1,4 @@
-![Marketing Distributor](https://github.com/sourceduty/Marketing_Distributor/assets/123030236/9ef128ff-33b6-4031-9075-c852b73771c1)
+![Marketing Distributor](https://github.com/sourceduty/Marketing_Distributor/assets/123030236/546ad3f7-d4c0-4b18-99c6-59a1b6038176)
 
 [Marketing Distributor](https://chatgpt.com/g/g-6lQOr4lPU-marketing-distributor) was developed to assist users in optimizing the distribution of their marketing campaigns. By guiding users through the process, it helps ensure that marketing efforts are more effective and aligned with specific business goals. Whether a campaign aims to increase sales, boost event attendance, or enhance brand awareness, Marketing Distributor offers tailored advice and strategic planning support.
 
